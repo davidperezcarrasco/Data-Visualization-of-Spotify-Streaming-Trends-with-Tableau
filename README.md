@@ -10,6 +10,12 @@ Prior to data visualization, a thorough data cleaning process ensured data integ
 
 This first dashboard invites an interactive navigation of music streaming trends across artists, songs, and time. A dynamic treemap showcases the most streamed artists, with clicks refining visualizations below. The bar chart transforms to display top streamed songs by selected artist(s) for artist-specific exploration. Similarly, the line plot adjusts, revealing artist streaming popularity over time. User control extends further - selecting a time range refines the treemap based on artist popularity within that period, uncovering era-specific trends. Additionally, users can choose the number of top artists displayed, with all visualizations adjusting accordingly. This facilitates comprehensive analysis, revealing hidden patterns within various timeframes and artist selections.
 
+<tr>
+    <td>
+      <img src="video/gif" alt="Video 1" style="width:100%">
+    </td>
+</tr>
+
 [![Dynamic Streaming Data Dashboard](img/tb-streams.png)](video/tb-streams.mp4)
 
 This interactive dashboard unveils captivating insights into music streaming trends, offering a comprehensive exploration of the who, what, and when of music popularity. By investigating different timeframes, dominant artists of various eras emerge, showcasing the evolution of streaming giants. For instance, while The Weeknd currently reigns supreme with Blinding Lights holding the top spot overall, user interaction reveals intriguing shifts. Selecting specific years might expose how Bad Bunny dominated the early 2020s or Eminem ruled the late 20th century. This exploration empowers users to discover the most streamed artists and songs for any period, alongside their streaming totals. Drilling down on individual artists unveils their cumulative streaming growth over time.
