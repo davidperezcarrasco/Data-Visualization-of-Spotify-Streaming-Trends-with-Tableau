@@ -18,7 +18,7 @@ This interactive dashboard unveils captivating insights into music streaming tre
 
 The second dashboard focuses on artist collaborations, a key aspect of the music industry. The main view is a dynamic bubble chart, with bubble size and color representing each artist's total streams. Users can explore data for specific timeframes or limit the number of artists displayed. Selecting an artist within the bubble chart unlocks further details. The visualizations below shift to showcase the artist's most frequent collaborators and their most successful collaborations in terms of streaming numbers. This allows for a direct comparison, revealing whether frequent collaborations translate into the most successful ones for each artist.
 
-![Dynamic Featurings Dashboard](tb-featurings.png)
+![Dynamic Featurings Dashboard](img/tb-featurings.png)
 
 Exploring collaborations exposes intriguing patterns. An artist might frequently collaborate with another artist, but this doesn't always guarantee the most successful partnership. For example, The Weeknd has collaborated with Gesaffelstein twice, but his biggest hit in terms of streams is with Daft Punk, reaching a massive 2.5 billion streams for a single song. Similarly, Drake's most streamed collaboration involves WizKid, surpassing the combined streams of his eight collaborations with 21 Savage. These insights highlight the potential for unexpected discoveries within the data, revealing collaborations that outperform more frequent pairings.
 
@@ -26,12 +26,12 @@ Exploring collaborations exposes intriguing patterns. An artist might frequently
 
 Delving deeper, this dashboard delves into how music streaming trends evolve over time. Users can navigate through years, months, and even days using interactive line plots. Selecting a specific year instantly refines the visualizations below. The month and day charts update dynamically, showcasing streaming data only for songs released in that chosen year. This allows for a granular examination of how streaming patterns change throughout the year. Additionally, a dynamic bar chart displays the most streamed artists for the selected timeframe. Uniquely, this bar chart breaks down each artist's performance by their top songs, providing a detailed picture of artist and song popularity within that period. For example, user interaction can reveal which artists dominated specific days, months, or years, like uncovering Justin Bieber's most streamed songs released in June. This level of interactivity empowers users to conduct a thorough analysis of streaming trends across various timeframes.
 
-![Streaming Trends Over Time](tb-time.mp4)
+![Streaming Trends Over Time](video/tb-time.mp4)
 
 ### Exploring Artist and Song Longevity
 
 This final dashboard sheds light on a unique aspect of music popularity - how long songs and artists stay relevant on charts and playlists. Stepping away from pure streaming numbers, we delve into weeks spent on charts across various platforms like Spotify, Deezer, Apple Music, and Shazam. The centerpiece is a dynamic treemap showcasing the top artists based on the total weeks charted by all their songs. Interactive bar charts complement this view, displaying the top songs by weeks in charts and top songs by weeks in playlists. Selecting an artist within the treemap refines the song charts, allowing for a focused exploration of their performance.
 
-![Popular Artists and Songs by charts and playlists](tb-charts.png)
+![Popular Artists and Songs by charts and playlists](img/tb-charts.png)
 
 This exploration uncovers fascinating insights that challenge traditional measures of music popularity. An artist might achieve significant streaming success but not necessarily lead the charts. For instance, Taylor Swift might hold the top spot based on chart longevity, while The Weeknd may dominate streaming platforms. Similarly, "Vampire" might top the charts, while "Get Lucky" dominates playlists. These discoveries highlight a key takeaway: most streamed songs don't necessarily translate to songs that stay on charts or playlists the longest. This interactive dashboard enables users to delve deeper, uncovering hidden trends and patterns within music popularity, ultimately revealing the multifaceted nature of achieving success in the music industry.
