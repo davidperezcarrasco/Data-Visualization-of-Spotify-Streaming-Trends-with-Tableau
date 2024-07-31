@@ -10,7 +10,7 @@ Prior to data visualization, a thorough data cleaning process ensured data integ
 
 This first dashboard invites an interactive navigation of music streaming trends across artists, songs, and time. A dynamic treemap showcases the most streamed artists, with clicks refining visualizations below. The bar chart transforms to display top streamed songs by selected artist(s) for artist-specific exploration. Similarly, the line plot adjusts, revealing artist streaming popularity over time. User control extends further - selecting a time range refines the treemap based on artist popularity within that period, uncovering era-specific trends. Additionally, users can choose the number of top artists displayed, with all visualizations adjusting accordingly. This facilitates comprehensive analysis, revealing hidden patterns within various timeframes and artist selections.
 
-![Dynamic Streaming Data Dashboard](video/tb-streams.mp4)
+[![Dynamic Streaming Data Dashboard](img/tb-streams.png)](video/tb-streams.mp4)
 
 This interactive dashboard unveils captivating insights into music streaming trends, offering a comprehensive exploration of the who, what, and when of music popularity. By investigating different timeframes, dominant artists of various eras emerge, showcasing the evolution of streaming giants. For instance, while The Weeknd currently reigns supreme with Blinding Lights holding the top spot overall, user interaction reveals intriguing shifts. Selecting specific years might expose how Bad Bunny dominated the early 2020s or Eminem ruled the late 20th century. This exploration empowers users to discover the most streamed artists and songs for any period, alongside their streaming totals. Drilling down on individual artists unveils their cumulative streaming growth over time.
 
@@ -26,7 +26,7 @@ Exploring collaborations exposes intriguing patterns. An artist might frequently
 
 Delving deeper, this dashboard delves into how music streaming trends evolve over time. Users can navigate through years, months, and even days using interactive line plots. Selecting a specific year instantly refines the visualizations below. The month and day charts update dynamically, showcasing streaming data only for songs released in that chosen year. This allows for a granular examination of how streaming patterns change throughout the year. Additionally, a dynamic bar chart displays the most streamed artists for the selected timeframe. Uniquely, this bar chart breaks down each artist's performance by their top songs, providing a detailed picture of artist and song popularity within that period. For example, user interaction can reveal which artists dominated specific days, months, or years, like uncovering Justin Bieber's most streamed songs released in June. This level of interactivity empowers users to conduct a thorough analysis of streaming trends across various timeframes.
 
-![Streaming Trends Over Time](video/tb-time.mp4)
+[![Streaming Trends Over Time](img/tb-time.png)](video/tb-time.mp4)
 
 ### Exploring Artist and Song Longevity
 
